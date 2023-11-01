@@ -1,0 +1,78 @@
+body {
+  background: rgb(168, 122, 122);
+}
+
+#main-header {
+  background: #3d3131;
+  width: 1000px;
+  height: 700px;
+  margin: 0 auto;
+}
+
+.main-div {
+  background: rgb(27, 21, 21);
+  padding-top: 50px;
+  width: 550px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+.circle1 {
+  background: black;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.circle2 {
+  background: black;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 10px auto;
+}
+
+.circle3 {
+  background: black;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.circle1dark {
+  background: red;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.circle2dark {
+  background: yellow;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.circle3dark {
+  background: green;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.clock {
+  margin-top: 200px;
+  background-color: #3d3131;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #17D4FE;
+  font-size: 160px;
+  letter-spacing: 17px;
+}/*# sourceMappingURL=index.css.map */
